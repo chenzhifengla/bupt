@@ -14,6 +14,7 @@
     <ProjectGuid>{5C34BFBA-46D3-4F26-B57B-8DF44153F486}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>buptoj</RootNamespace>
+    <ProjectName>buptoj2016</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
