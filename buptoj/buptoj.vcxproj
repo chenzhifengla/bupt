@@ -86,6 +86,7 @@
     <ClCompile Include="257%28软件14%29.cpp" />
     <ClCompile Include="258(软件14).cpp" />
     <ClCompile Include="266(网研14).cpp" />
+    <ClCompile Include="268(网研14).cpp" />
     <ClCompile Include="源.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
