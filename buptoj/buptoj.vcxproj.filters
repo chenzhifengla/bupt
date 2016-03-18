@@ -42,5 +42,8 @@
     <ClCompile Include="271(计院14).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="272(计院14).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
