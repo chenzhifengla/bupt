@@ -48,5 +48,8 @@
     <ClCompile Include="A质数统计(网研15).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="B矩阵相乘(网研15).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
