@@ -100,6 +100,7 @@
     <ClCompile Include="270(计院14).cpp" />
     <ClCompile Include="271(计院14).cpp" />
     <ClCompile Include="272(计院14).cpp" />
+    <ClCompile Include="A质数统计(网研15).cpp" />
     <ClCompile Include="源.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
