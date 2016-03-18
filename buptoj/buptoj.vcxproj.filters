@@ -51,5 +51,8 @@
     <ClCompile Include="B矩阵相乘(网研15).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="C哈希映射(网研15).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -102,6 +102,7 @@
     <ClCompile Include="272(计院14).cpp" />
     <ClCompile Include="A质数统计(网研15).cpp" />
     <ClCompile Include="B矩阵相乘(网研15).cpp" />
+    <ClCompile Include="C哈希映射(网研15).cpp" />
     <ClCompile Include="源.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
