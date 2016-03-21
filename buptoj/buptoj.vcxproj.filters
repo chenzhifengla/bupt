@@ -60,5 +60,41 @@
     <ClCompile Include="277(计院14).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="热身赛1-A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-E.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-G.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-J.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-K.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-L.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛1-F.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
