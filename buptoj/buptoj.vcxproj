@@ -131,7 +131,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="热身赛1-C.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="热身赛1-D.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
@@ -151,15 +151,16 @@
     <ClCompile Include="热身赛1-I.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="热身赛1-J.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="热身赛1-K.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="热身赛1-L.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="热身赛2-A.cpp" />
+    <ClCompile Include="热身赛2-B.cpp" />
+    <ClCompile Include="热身赛2-C.cpp" />
+    <ClCompile Include="热身赛2-D.cpp" />
+    <ClCompile Include="热身赛2-E.cpp" />
+    <ClCompile Include="热身赛2-F.cpp" />
+    <ClCompile Include="热身赛2-G.cpp" />
+    <ClCompile Include="热身赛2-H.cpp" />
+    <ClCompile Include="热身赛2-I.cpp" />
+    <ClCompile Include="热身赛2-J.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

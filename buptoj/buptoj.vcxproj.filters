@@ -84,16 +84,37 @@
     <ClCompile Include="热身赛1-I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="热身赛1-J.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="热身赛1-K.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="热身赛1-L.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="热身赛1-F.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-E.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-F.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-G.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛2-J.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
