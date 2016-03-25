@@ -117,5 +117,26 @@
     <ClCompile Include="热身赛2-J.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="热身赛3-A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛3-B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛3-C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛3-D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛3-E.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛3-F.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="热身赛3-G.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
