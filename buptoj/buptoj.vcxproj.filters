@@ -138,5 +138,35 @@
     <ClCompile Include="热身赛3-G.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="网络预选赛-A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-E.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-F.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-G.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="网络预选赛-J.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
